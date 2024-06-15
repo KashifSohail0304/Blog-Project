@@ -142,26 +142,26 @@ const About = () => {
                                 />
                                 <CardContent>
                                     <Typography gutterBottom variant='h5' component='div' alignItems='center'>
-                                        Saad Karim
+                                        Mohammad Kashif Sohail Khan
                                     </Typography>
                                     <Typography variant='body2' color='text.secondary' alignItems='center'>
-                                    I am a ECE sophomore at BIT Mesra, a full stack developer 
+                                    I am a Biotech sophomore at BIT Mesra, a full stack developer 
                                     with a passion for learning and creating new technologies.
                                     I also take keen interest in competative programming.
                                     </Typography>
 
                                     <IconButton>
-                                        <Link href="https://www.linkedin.com/in/saad-karim-3bb83922b" color="inherit" target="_blank">
+                                        <Link href="https://www.linkedin.com/in/mohammad-kashif-sohail-khan-38b72122b/" color="inherit" target="_blank">
                                             <LinkedInIcon/>
                                         </Link>
                                     </IconButton>
                                     <IconButton>
-                                        <Link href="https://github.com/Saadkarim402" color="inherit" target="_blank">
+                                        <Link href="https://github.com/KashifSohail0304" color="inherit" target="_blank">
                                             <GitHubIcon/>
                                         </Link>
                                     </IconButton>
                                     <IconButton>
-                                        <Link href="https://instagram.com/saadkarim_001?igshid=MzNlNGNkZWQ4Mg==" color="inherit" target="_blank">
+                                        <Link href="https://www.instagram.com/kashif_khan0304/" color="inherit" target="_blank">
                                             <InstagramIcon/>
                                         </Link>
                                     </IconButton>
